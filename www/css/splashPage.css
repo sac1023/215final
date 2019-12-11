@@ -1,0 +1,28 @@
+body {
+    background-image: url("https://r1.ilikewallpaper.net/iphone-wallpapers/download/18944/Modern-architecture-iphone-wallpaper-ilikewallpaper_com.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h2 {
+    margin-top: 50px;
+    color: white;
+    font-family: "Georgia", serif;  
+}
+
+h5 {
+    color: black;
+    font-family: "Georgia", serif;
+}
+
+#enterBtn {
+    height: 25px;
+    width: 75px;
+    background-color: black;
+    color: white;
+    border-radius: 5px;
+    font-family: "Georgia", serif;
+    font-size: 12px;
+    letter-spacing: 1px;
+    border: 2px solid white;
+}
